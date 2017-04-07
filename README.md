@@ -6,6 +6,9 @@ This repository has a intention to provide a place to store all pratical exercic
 # Major Requirments 
 
 Jupter Notepad (http://jupyter.org/)
+
 Python 2.7
+
 Python 3.0 
+
 TensorFlow (https://www.tensorflow.org/)
