@@ -1,0 +1,26 @@
+Style Guide for Commit Messages
+
+This style guide acts as the official guide to follow in your projects. Udacity evaluators will use this guide to grade your projects.
+There are many opinions on the "ideal" style in the world of development. Therefore, in order to reduce the confusion on what style 
+students should follow during the course of their projects, we urge all students to refer to this style guide for their projects.
+Commit MessagesMessage 
+
+StructureA commit messages consists of three distinct parts separated by a blank line: the title, an optional body and an optional 
+footer. 
+
+
+The TypeThe type is contained within the title and can be one of these 
+
+-feat: a new feature
+
+-fix: a bug fix
+
+-docs: changes to documentation
+
+-style: formatting, missing semi colons, etc; no code change
+
+-refactor: refactoring production code
+
+-test: adding tests, refactoring test; no production code change
+
+-chore: updating build tasks, package manager configs, etc; no production code change
