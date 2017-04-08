@@ -3,7 +3,7 @@
 This repository has a intention to provide a place to store all pratical exercices from Udacity Nano Degree Program . All those exercices use jupyternotepad to edit and run the code beyond that there are a README for every exercice to provide a better understand to how create a environment. 
 
 
-# Major Requirments 
+# Major Requirements 
 
 Jupter Notepad (http://jupyter.org/)
 
