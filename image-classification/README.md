@@ -61,3 +61,5 @@ Just run the command above, download `dlnd_image_classification.ipynb` and repla
 3. I added a `.floydignore` file to stop local data from being uploaded to Floyd - which wastes time and may even result in a timeout ([see the commit](https://github.com/ludwiktrammer/deep-learning/commit/30d4b536b67366feef38425ce1406e969452717e), [learn more about `.floydignore` files](http://docs.floydhub.com/home/floyd_ignore/))
 
 3. I added this README
+
+## This module use python version 3.  
